@@ -1,6 +1,6 @@
-package com.yuricjardim.sbmongdb.repository;
+package com.yuricjardim.sbmongodb.repository;
 
-import com.yuricjardim.sbmongdb.domain.User;
+import com.yuricjardim.sbmongodb.domain.User;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 

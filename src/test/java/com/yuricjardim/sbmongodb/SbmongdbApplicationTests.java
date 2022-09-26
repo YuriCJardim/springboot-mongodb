@@ -1,4 +1,4 @@
-package com.yuricjardim.sbmongdb;
+package com.yuricjardim.sbmongodb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

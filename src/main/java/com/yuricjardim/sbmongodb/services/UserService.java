@@ -1,7 +1,7 @@
-package com.yuricjardim.sbmongdb.services;
+package com.yuricjardim.sbmongodb.services;
 
-import com.yuricjardim.sbmongdb.domain.User;
-import com.yuricjardim.sbmongdb.repository.UserRepository;
+import com.yuricjardim.sbmongodb.domain.User;
+import com.yuricjardim.sbmongodb.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

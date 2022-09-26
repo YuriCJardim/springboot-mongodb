@@ -1,13 +1,13 @@
-package com.yuricjardim.sbmongdb;
+package com.yuricjardim.sbmongodb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SbmongdbApplication {
+public class SbMongodbApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SbmongdbApplication.class, args);
+		SpringApplication.run(SbMongodbApplication.class, args);
 	}
 
 }

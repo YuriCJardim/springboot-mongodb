@@ -1,4 +1,4 @@
-package com.yuricjardim.sbmongdb.domain;
+package com.yuricjardim.sbmongodb.domain;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;
